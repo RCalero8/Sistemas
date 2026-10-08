@@ -2,4 +2,4 @@
 hola = 'Hola mundo'
 
 #Imprimo el resultado
-print(hola);
+print(hola)
